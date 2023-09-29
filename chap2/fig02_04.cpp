@@ -1,4 +1,4 @@
-// Fig. 2.4: fig2_04.cpp
+// Fig. 2.4: fig02_04.cpp
 // Printing multiple lines of text with a single statement
 
 #include <iostream>

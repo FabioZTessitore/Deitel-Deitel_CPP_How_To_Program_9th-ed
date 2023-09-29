@@ -1,4 +1,4 @@
-// Fig. 2.5: fig2_05.cpp
+// Fig. 2.5: fig02_05.cpp
 // Addition program that displays the sum of two integers
 
 #include <iostream>
