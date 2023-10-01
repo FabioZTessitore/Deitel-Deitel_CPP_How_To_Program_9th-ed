@@ -1,7 +1,4 @@
-// Fig. 3.11: GradeBook.h
-// GradeBook class definition. This file presents GradeBook's public
-// interface without revealing the implementations of GradeBook's member
-// functions, which are defined in GradeBook.cpp
+// GradeBook.h
 
 #include <string>
 

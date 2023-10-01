@@ -1,6 +1,4 @@
-// Fig. 3.12: GradeBook.cpp
-// GradeBook member-function definitions. This file contains
-// implementations of the member functions prototyped in GradeBook.h
+// GradeBook.cpp
 
 #include <iostream>
 #include "GradeBook.h"
