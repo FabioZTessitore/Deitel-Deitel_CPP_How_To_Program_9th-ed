@@ -13,7 +13,7 @@ int main()
 
     do
     {
-        cout << "Diamind size (odd number in the range 1-19): ";
+        cout << "Diamond size (odd number in the range 1-19): ";
         cin >> N;
     } while (N < 1 || N % 2 != 1 || N > 20);
 
