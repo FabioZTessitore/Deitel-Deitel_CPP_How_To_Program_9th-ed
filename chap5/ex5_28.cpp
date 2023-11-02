@@ -1,4 +1,4 @@
-// ex5_28.cpp
+// ex5_28
 // "The Twelve Days of Christmas" Song
 
 #include <iostream>

@@ -1,4 +1,4 @@
-// ex5_21.cpp
+// ex5_21
 // Calculating Salaries
 
 #include <iostream>

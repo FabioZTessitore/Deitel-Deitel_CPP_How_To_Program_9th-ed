@@ -1,4 +1,4 @@
-// ex5_24.cpp
+// ex5_24
 // Diamond of Asterisks Modification
 
 #include <iostream>

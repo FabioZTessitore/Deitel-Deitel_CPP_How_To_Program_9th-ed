@@ -1,4 +1,4 @@
-// ex5_18.cpp
+// ex5_18
 // Number Systems Table
 
 #include <iostream>

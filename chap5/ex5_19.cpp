@@ -1,4 +1,4 @@
-// ex5_19.cpp
+// ex5_19
 // Calculating PI
 
 #include <iostream>
