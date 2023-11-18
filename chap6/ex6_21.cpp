@@ -1,4 +1,4 @@
-// ex6_21.cpp
+// ex6_21
 // Even Numbers
 
 #include <iostream>

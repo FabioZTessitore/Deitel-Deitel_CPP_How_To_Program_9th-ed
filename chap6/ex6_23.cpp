@@ -1,4 +1,4 @@
-// ex6_23.cpp
+// ex6_23
 // Square of Any Character
 
 #include <iostream>

@@ -1,4 +1,4 @@
-// ex6_22.cpp
+// ex6_22
 // Square of Asterisks
 
 #include <iostream>
