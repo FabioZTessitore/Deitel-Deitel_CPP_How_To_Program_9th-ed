@@ -13,7 +13,6 @@ using std::setw;
 
 #define MINIMUM_FEE 2.
 #define MINIMUM_TIME 3
-#define MAXIMUM_TIME 24
 #define ADDITIONAL .5
 #define MAXIMUM_FEE 10.
 
