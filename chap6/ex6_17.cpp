@@ -19,6 +19,6 @@ int main()
     cout << "Random numbers" << endl;
 
     cout << "a) 2, 4, 6, 8, 10: " << 2 * randomInt(engine) << endl;
-    cout << "b) 3, 5, 7, 8, 11: " << 2 * randomInt(engine) + 1 << endl;
+    cout << "b) 3, 5, 7, 9, 11: " << 2 * randomInt(engine) + 1 << endl;
     cout << "c) 6, 10, 14, 18, 22: " << 2 * (2 * randomInt(engine) + 1) << endl;
 }
